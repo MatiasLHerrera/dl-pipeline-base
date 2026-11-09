@@ -1,0 +1,17 @@
+{
+  "torch_version": "2.15.0+cu132",
+  "device": "cpu",
+  "learning_rate": 0.001,
+  "epochs": 100,
+  "batch_size": 16,
+  "seed": 42,
+  "sizes": {
+    "train": 90,
+    "val": 30,
+    "test": 30
+  },
+  "best_val_loss": 0.18972279926141103,
+  "test_loss": 0.16575328210989634,
+  "test_acc": 0.8999999761581421,
+  "test_f1": 0.899749373433584
+}
